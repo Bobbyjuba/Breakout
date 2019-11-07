@@ -29,8 +29,10 @@
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
             this.labelScore = new System.Windows.Forms.Label();
             this.labelScoreVal = new System.Windows.Forms.Label();
+            this.floor = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.picBall)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPaddle)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.floor)).BeginInit();
             this.SuspendLayout();
             // 
             // picBall
@@ -77,10 +79,20 @@
             this.labelScoreVal.Font = new System.Drawing.Font("Cambria", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelScoreVal.Location = new System.Drawing.Point(320, 0);
             this.labelScoreVal.Name = "labelScoreVal";
-            this.labelScoreVal.Size = new System.Drawing.Size(20, 20);
+            this.labelScoreVal.Size = new System.Drawing.Size(29, 20);
             this.labelScoreVal.TabIndex = 3;
             this.labelScoreVal.Text = "0";
             this.labelScoreVal.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // floor
+            // 
+            this.floor.BackColor = System.Drawing.Color.White;
+            this.floor.Cursor = System.Windows.Forms.Cursors.Default;
+            this.floor.Location = new System.Drawing.Point(-1, 553);
+            this.floor.Name = "floor";
+            this.floor.Size = new System.Drawing.Size(586, 10);
+            this.floor.TabIndex = 4;
+            this.floor.TabStop = false;
             // 
             // BreakoutForm
             // 
@@ -88,6 +100,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(584, 561);
+            this.Controls.Add(this.floor);
             this.Controls.Add(this.labelScoreVal);
             this.Controls.Add(this.labelScore);
             this.Controls.Add(this.picPaddle);
@@ -98,6 +111,7 @@
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.BreakoutForm_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.picBall)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPaddle)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.floor)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -109,6 +123,7 @@
         private System.Windows.Forms.Timer gameTimer;
         private System.Windows.Forms.Label labelScore;
         private System.Windows.Forms.Label labelScoreVal;
+        private System.Windows.Forms.PictureBox floor;
     }
 }
 
