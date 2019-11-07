@@ -1,0 +1,39 @@
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.BreakoutForm.resources
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\Brian Roden\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.BreakoutForm.resources
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\Bobby\OneDrive\Pitiful Coding Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\bin\Debug\Breakout.exe
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.BreakoutForm.resources
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.exe
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C# Scratchpad\Breakout\obj\Debug\Breakout.pdb
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\bin\Debug\Breakout.exe
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.BreakoutForm.resources
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.exe
+C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.pdb
