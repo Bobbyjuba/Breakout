@@ -37,3 +37,13 @@ C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug
 C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
 C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.exe
 C:\Users\Brian Roden\Documents\Visual Studio 2019\Projects\C#\Breakout\obj\Debug\Breakout.pdb
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.BreakoutForm.resources
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\Brian\Source\Repos\Bobbyjuba\Breakout\Breakout\obj\Debug\Breakout.pdb
